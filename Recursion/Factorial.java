@@ -110,34 +110,30 @@ public class Factorial {
     // printFib(a, b, 2);
     // }
 
-
-
-
-
-
-
-
-   /* public static void printStringInLast(int idx, int count, String Str, String newString) {
-
-        if (idx == Str.length()) {
-            System.out.println(newString);
-            return;
-        }
-
-        char currentChar = Str.charAt(idx);
-        if (currentChar == 'x') {
-            count++;
-            printStringInLast(idx + 1, count, Str, newString);
-        } else {
-            newString += currentChar;
-        }
-
-    }
-
-    public static void main(String[] args) {
-
-        String Str = "sxusxanxtxa";
-        printStringInLast(0, 0, Str, " ");
-    }
+    /*
+     * public static void printStringInLast(int idx, int count, String Str, String
+     * newString) {
+     * 
+     * if (idx == Str.length()) {
+     * System.out.println(newString);
+     * return;
+     * }
+     * 
+     * char currentChar = Str.charAt(idx);
+     * if (currentChar == 'x') {
+     * count++;
+     * printStringInLast(idx + 1, count, Str, newString);
+     * } else {
+     * newString += currentChar;
+     * }
+     * 
+     * }
+     * 
+     * public static void main(String[] args) {
+     * 
+     * String Str = "sxusxanxtxa";
+     * printStringInLast(0, 0, Str, " ");
+     * }
+     * }
+     */
 }
-*/
